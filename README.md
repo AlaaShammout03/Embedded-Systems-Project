@@ -1,11 +1,5 @@
 # Interactive Escape Room Simulator Using ESP32 and FreeRTOS
 
-## Group information
-
-### Section number: 2
-
-### Group number: 9
-
 ### Team members
 
 * Alaa Shammout - b00093233

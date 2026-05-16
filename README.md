@@ -224,11 +224,3 @@ This approach is simple and suitable for the simulation because the project only
 
 ![Failure](images/failure.png)
 *Failure state: triggered when the player runs out of attempts or the global timer expires. The red LED and buzzer provide error feedback.*
-
----
-
-## Video
-
-The demo video shows the full gameplay flow of the ESP32 escape room simulator. It demonstrates the three stages of the game: the slider and keypad challenge, the joystick sequence challenge, and the LED reaction challenge. The video also shows the LCD instructions, user inputs, feedback behavior, and the final success/failure states.
-
-Video link: https://drive.google.com/file/d/1pn0rLQAFwcPe6bm8T6SFhfh8BuVOnMa8/view?usp=sharing

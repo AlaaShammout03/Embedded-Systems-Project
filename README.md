@@ -1,8 +1,8 @@
 # Interactive Escape Room Simulator Using ESP32 and FreeRTOS
 
-### Project Context
-
-This was a 3-person embedded systems team project.
+**Course:** COE 411 Embedded Cyber-Physical Systems, Spring 2026  
+**Institution:** American University of Sharjah  
+**Project Context:** This was a 3-person embedded systems team project.
 
 ### My Contributions
 

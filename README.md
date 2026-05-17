@@ -1,10 +1,15 @@
 # Interactive Escape Room Simulator Using ESP32 and FreeRTOS
 
-### Team members
+### Project Context
 
-* Alaa Shammout - b00093233
-* Moamen Abouzaid - b00092563
-* Saif Alzarouni - b00091430
+This was a 3-person embedded systems team project.
+
+### My Contributions
+
+- Implemented FreeRTOS task structure for input handling, logic, and display updates.
+- Worked on shared-state synchronization using a mutex.
+- Integrated keypad, joystick, potentiometer, LEDs, buzzer, and LCD behavior.
+- Helped design and document the state-based game flow.
 
 ---
 
